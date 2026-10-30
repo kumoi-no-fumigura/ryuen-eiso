@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ryuen-eiso",
  "yomi": "りゅうえんえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "明治14年（1881）4月序",
+  "author": "石川依平（1791〜1859）",
+  "desc": "遠江の歌人石川依平の家集の抄。序は、天保11年に依平の家を訪ねて歌を詠み合った思い出を記す。長歌も収める。"
+ },
  "editions": [
   {
    "pid": "993386",
